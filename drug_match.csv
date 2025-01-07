@@ -1,0 +1,318 @@
+year,opioid,gnrc_name,group,matched_name,match_score
+2016,1.0,.,1,0.9 % Sodium Chloride,0
+2019,,abemaciclib,1,Abemaciclib,100
+2011,,acetaminophen,0,Acetaminophen,100
+2011,,adalimumab,0,Adalimumab,100
+2011,,adenosine,0,Didanosine,74
+2018,,alemtuzumab,1,Elotuzumab,76
+2011,,alendronate,0,Alendronate Sodium,76
+2016,1.0,alfentanil,1,Fentanyl,78
+2012,,aliskiren,0,Aliskiren/Valsartan,64
+2016,1.0,almotriptan,1,Zolmitriptan,78
+2013,,alogliptin,0,Linagliptin,76
+2015,,alogliptin/metformin,1,Alogliptin Benz/Metformin Hcl,82
+2015,,alogliptin/pioglitazone,1,Alogliptin Benz/Pioglitazone,90
+2016,1.0,alprazolam,1,Alprazolam,100
+2011,,amiodarone,0,Amiodarone Hcl,83
+2016,1.0,amitriptyline,1,Amitriptyline Hcl,87
+2016,1.0,amoxapine,1,Amoxapine,100
+2010,,arformoterol,0,Arformoterol Tartrate,73
+2016,1.0,aripiprazole,1,Aripiprazole,100
+2016,1.0,asenapine,1,Asenapine,100
+2011,,asenapine maleate,0,Asenapine Maleate,100
+2011,,azathioprine,0,Azathioprine,100
+2018,,azithromycin,1,Azithromycin,100
+2016,1.0,baclofen,1,Baclofen,100
+2011,,benzocaine,0,Benzocaine,100
+2010,,bisphosphonate,0,Fludarabine Phosphate,63
+2012,,brentuximab vedotin,0,Brentuximab Vedotin,100
+2016,1.0,buprenorphine,1,Buprenorphine,100
+2016,1.0,buspirone,1,Buspirone Hcl,82
+2016,1.0,butabarbital sodium,1,Butabarbital Sodium,100
+2016,1.0,butorphanol,1,Butorphanol Tartrate,71
+2015,,canagliflozin,1,Canagliflozin,100
+2018,,canagliflozin/metformin,1,Canagliflozin/Metformin Hcl,92
+2010,,carbidopa/levodopa/entacapone,0,Carbidopa/Levodopa/Entacapone,100
+2016,1.0,cariprazine,1,Cariprazine Hcl,85
+2016,1.0,carisoprodol,1,Carisoprodol,100
+2015,,celecoxib,1,Celecoxib,100
+2011,,certolizumab pegol,0,Certolizumab Pegol,100
+2016,1.0,chlordiazepoxide,1,Chlordiazepoxide Hcl,89
+2016,1.0,chlorpromazine,1,Chlorpromazine Hcl,88
+2016,1.0,chlorzoxazone,1,Chlorzoxazone,100
+2013,,ciprofloxacin,0,Ciprofloxacin,100
+2016,1.0,citalopram,1,Escitalopram Oxalate,67
+2011,,citalopram hydrobromide,0,Citalopram Hydrobromide,100
+2018,,clarithromycin,1,Clarithromycin,100
+2013,,clobazam,0,Clobazam,100
+2016,1.0,clomipramine,1,Clomipramine Hcl,86
+2016,1.0,clonazepam,1,Clonazepam,100
+2010,,clopidogrel,0,Clopidogrel Bisulfate,69
+2016,1.0,clorazepate,1,Lorazepam,80
+2016,1.0,clozapine,1,Clozapine,100
+2016,1.0,cyclobenzaprine,1,Cyclobenzaprine Hcl,88
+2011,,dabigatran etexilate mesylate,0,Dabigatran Etexilate Mesylate,100
+2016,,daclatasvir,1,Cabotegravir,61
+2012,,dalfampridine,0,Dalfampridine,100
+2016,1.0,dantrolene,1,Dantrolene Sodium,74
+2016,,dapagliflozin,1,Canagliflozin,85
+2018,,dapagliflozin/metformin,1,Dapagliflozin/Metformin Hcl,92
+2018,,dapagliflozin/saxagliptin,1,Dapagliflozin/Saxagliptin Hcl,93
+2010,,daptomycin,0,Daptomycin,100
+2010,,darbepoetin alfa,0,Epoetin Alfa,86
+2011,,dasatinib,0,Dasatinib,100
+2016,1.0,desipramine,1,Desipramine Hcl,85
+2016,1.0,desvenlafaxine,1,Desvenlafaxine,100
+2010,,dexlansoprazole,0,Dexlansoprazole,100
+2013,,dexmethylphenidate,0,Methylphenidate,91
+2016,1.0,dextromethorphan,1,Promethazine/Dextromethorphan,71
+2015,,diatrizoate meglumine,1,Delafloxacin Meglumine,65
+2015,,diatrizoate meglumine/diatrizoate sodium,1,Citric Acid/Sodium Citrate,58
+2016,1.0,diazepam,1,Diazepam,100
+2015,,diazoxide,1,Diazoxide,100
+2015,,diclofenac,1,Diclofenac Sodium,74
+2010,,didanosine,0,Didanosine,100
+2015,,diflunisal,1,Diflunisal,100
+2014,,dimethyl fumarate,0,Dimethyl Fumarate,100
+2014,,docefrez,0,Cefprozil,59
+2014,,docetaxel,0,Docetaxel,100
+2016,1.0,dolasetron,1,Ondansetron,76
+2010,,dolasetron mesylate,0,Dolasetron Mesylate,100
+2018,,dolutegravir,1,Dolutegravir Sodium,77
+2016,1.0,doxepin,1,Doxepin Hcl,78
+2011,,dronedarone,0,Dronedarone Hcl,85
+2011,,drospirenone,0,Drospirenone,100
+2011,,drotrecogin alfa,0,Dornase Alfa,64
+2016,1.0,duloxetine,1,Duloxetine Hcl,83
+2011,,dutasteride,0,Dutasteride,100
+2016,,elbasvir/grazoprevir,1,Elbasvir/Grazoprevir,100
+2017,,eluxadoline,1,Eluxadoline,100
+2018,,empagliflozin,1,Empagliflozin,100
+2015,,empagliflozin/linagliptin,1,Empagliflozin/Linagliptin,100
+2018,,empagliflozin/metformin,1,Empagliflozin/Metformin Hcl,92
+2010,,epoetin alfa,0,Epoetin Alfa,100
+2018,,ertugliflozin,1,Empagliflozin,77
+2018,,ertugliflozin/metformin,1,Ertugliflozin/Metformin,100
+2018,,ertugliflozin/sitagliptin,1,Ertugliflozin/Sitagliptin,100
+2011,,erythropoiesis-stimulating agents,0,Atropine Sulfate,53
+2016,1.0,escitalopram,1,Escitalopram Oxalate,75
+2010,,esomeprazole magnesium,0,Esomeprazole Magnesium,100
+2012,,esomeprazole magnesium/naproxen,0,Naproxen/Esomeprazole Mag,89
+2016,1.0,estazolam,1,Estazolam,100
+2014,,eszopiclone,0,Eszopiclone,100
+2019,,eszopiclone/zaleplon/zolpidem,1,Eszopiclone,55
+2011,,etanercept,0,Etanercept,100
+2011,,etidronate,0,Norethindrone,70
+2015,,etodolac,1,Etodolac,100
+2013,,exenatide,0,Exenatide,100
+2013,,ezogabine,0,Ezogabine,100
+2017,,febuxostat,1,Febuxostat,100
+2015,,fenoprofen,1,Ketoprofen,80
+2016,1.0,fentanyl,1,Fentanyl,100
+2011,,finasteride,0,Finasteride,100
+2011,,fingolimod,0,Fingolimod Hcl,83
+2016,,fluconazole,1,Fluconazole,100
+2016,1.0,fluoxetine,1,Fluoxetine Hcl,83
+2016,1.0,fluphenazine,1,Fluphenazine Hcl,86
+2016,1.0,flurazepam,1,Lorazepam,84
+2015,,flurbiprofen,1,Flurbiprofen,100
+2016,1.0,fluvoxamine,1,Fluvoxamine Maleate,73
+2010,,formoterol,0,Formoterol Fumarate,69
+2016,1.0,frovatriptan,1,Frovatriptan Succinate,71
+2019,,gabapentin,1,Gabapentin,100
+2015,,gadobenate dimeglumine,1,Fosaprepitant Dimeglumine,68
+2015,,gadobutrol,1,Nadolol,59
+2015,,gadodiamide,1,Lacosamide,67
+2015,,gadofosveset trisodium,1,Foscarnet Sodium,63
+2015,,gadopentetate dimeglumine,1,Fosaprepitant Dimeglumine,72
+2015,,gadoterate meglumine,1,Methenamine Mandelate,63
+2015,,gadoteridol,1,Droperidol,76
+2015,,gadoversetamide,1,Torsemide,67
+2015,,gadoxetate disodium,1,Pamidronate Disodium,77
+2016,,gemifloxacin,1,Gatifloxacin,83
+2019,,glecaprevir/pibrentasvir,1,Glecaprevir/Pibrentasvir,100
+2011,,golimumab,0,Golimumab,100
+2010,,goserelin acetate,0,Goserelin Acetate,100
+2016,1.0,granisetron,1,Granisetron,100
+2016,1.0,haloperidol,1,Haloperidol,100
+2010,,heparin sodium,0,Enoxaparin Sodium,84
+2010,,histrelin acetate,0,Histrelin Ac,83
+2015,,human insulin isophane,1,Insulin Nph Human Isophane,92
+2015,,human insulin isophane/human insulin,1,Insulin Nph Hum/Reg Insulin Hm,79
+2015,,human insulin isosphane,1,Insulin Nph Human Isophane,90
+2016,1.0,hydrocodone,1,Hydrocortisone,80
+2016,1.0,hydromorphone,1,Hydromorphone Hcl,87
+2011,,ibandronate,0,Ibandronate Sodium,76
+2015,,ibuprofen,1,Ibuprofen,100
+2016,1.0,iloperidone,1,Iloperidone,100
+2016,1.0,imipramine,1,Imipramine Hcl,83
+2016,,imodium,1,Imiquimod,62
+2015,,indomethacin,1,Indomethacin,100
+2011,,infliximab,0,Infliximab,100
+2015,,ingenol mebutate,1,Ingenol Mebutate,100
+2015,,insulin aspart,1,Insulin Aspart,100
+2015,,insulin aspart protamine/insulin aspart,1,Insulin Aspart Prot/Insuln Asp,87
+2015,,insulin detemir,1,Insulin Detemir,100
+2011,,insulin glargine,0,Insulin Glargine-Yfgn,86
+2015,,insulin glulisine,1,Insulin Glulisine,100
+2015,,insulin lispro,1,Insulin Lispro,100
+2015,,insulin lispro protamine/insulin lispro,1,Insulin Lispro Protamin/Lispro,87
+2015,,iodipamide meglumine,1,Lodoxamide Tromethamine,65
+2015,,iodixanol,1,Danazol,62
+2015,,iohexol,1,Rimexolone,59
+2015,,iopamidol,1,Indapamide,63
+2015,,iopromide,1,Iloperidone,70
+2015,,iothalamate meglumine,1,Delafloxacin Meglumine,60
+2015,,ioversol,1,Misoprostol,63
+2015,,ioxaglate meglumine/ioxaglate sodium,1,Dolutegravir Sodium/Lamivudine,58
+2015,,ioxilan,1,Digoxin,71
+2016,1.0,isocarboxazid,1,Isocarboxazid,100
+2013,,ketoconazole,0,Ketoconazole,100
+2015,,ketoprofen,1,Ketoprofen,100
+2015,,ketorolac,1,Etodolac,82
+2018,,lamotrigine,1,Lamotrigine,100
+2010,,lansoprazole,0,Lansoprazole,100
+2015,,ledipasvir/sofosbuvir,1,Ledipasvir/Sofosbuvir,100
+2010,,leflunomide,0,Leflunomide,100
+2011,,lenalidomide,0,Lenalidomide,100
+2010,,leuprolide acetate,0,Leuprolide Acetate,100
+2013,,levofloxacin,0,Levofloxacin,100
+2013,,linagliptin,0,Linagliptin,100
+2015,,linagliptin/metformin,1,Linagliptin/Metformin Hcl,91
+2016,1.0,linezolid,1,Linezolid,100
+2013,,liraglutide,0,Liraglutide,100
+2016,1.0,llthium,1,Lithium Citrate,55
+2016,1.0,lorazepam,1,Lorazepam,100
+2016,1.0,loxapine,1,Amoxapine,82
+2016,1.0,lurasidone,1,Lurasidone Hcl,83
+2016,1.0,maprotiline,1,Maprotiline Hcl,85
+2015,,mefenamic acid,1,Mefenamic Acid,100
+2013,,mefloquine,0,Mefloquine Hcl,83
+2015,,meloxicam,1,Meloxicam,100
+2016,1.0,meperidine,1,Meperidine Hcl,83
+2011,,mercaptopurine,0,Mercaptopurine,100
+2016,1.0,metaxalone,1,Metaxalone,100
+2016,,metformin,1,Metformin Hcl,82
+2016,1.0,methadone,1,Methadone Hcl,82
+2016,1.0,methocarbamol,1,Methocarbamol,100
+2016,1.0,methylene blue,1,Methylene Blue,100
+2013,,methylphenidate,0,Methylphenidate,100
+2015,,methylphenidate transdermal system,1,Dexmethylphenidate Hcl,61
+2016,1.0,milnacipran,1,Milnacipran Hcl,85
+2016,1.0,mirtazapine,1,Mirtazapine,100
+2016,1.0,molindone,1,Molindone Hcl,82
+2016,1.0,morphine,1,Amoxapine,71
+2013,,moxifloxacin,0,Moxifloxacin Hcl,86
+2015,,nabumetone,1,Nabumetone,100
+2010,,nafarelin acetate,0,Nafarelin Acetate,100
+2015,,naproxen,1,Naproxen,100
+2010,,naproxen/esomeprazole mag,0,Naproxen/Esomeprazole Mag,100
+2016,1.0,naratriptan,1,Naratriptan Hcl,85
+2010,,natalizumab,0,Natalizumab,100
+2016,1.0,nefazodone,1,Nefazodone Hcl,83
+2016,1.0,nortriptyline,1,Nortriptyline Hcl,87
+2017,,obeticholic acid,1,Obeticholic Acid,100
+2013,,ofatumumab,0,Ofatumumab,100
+2013,,ofloxacin,0,Ofloxacin,100
+2016,1.0,olanzapine,1,Olanzapine,100
+2013,,olanzapine pamoate,0,Olanzapine Pamoate,100
+2010,,olmesartan,0,Telmisartan,76
+2013,,olmesartan medoxomil,0,Olmesartan Medoxomil,100
+2014,,omalizumab,0,Omalizumab,100
+2016,,ombitasvir/paritaprevir/ritonavir,1,Nirmatrelvir/Ritonavir,69
+2010,,omeprazole,0,Omeprazole,100
+2010,,omeprazole/sodium bicarbonate,0,Omeprazole/Sodium Bicarbonate,100
+2016,1.0,ondansetron,1,Ondansetron,100
+2010,,orlistat,0,Orlistat,100
+2016,1.0,orphenadrine,1,Orphenadrine Citrate,75
+2015,,oxaprozin,1,Oxaprozin,100
+2016,1.0,oxazepam,1,Oxazepam,100
+2016,1.0,oxycodone,1,Oxycodone Hcl,82
+2016,1.0,oxymorphone,1,Oxymorphone Hcl,85
+2019,,palbociclib,1,Palbociclib,100
+2016,1.0,paliperidone,1,Paliperidone,100
+2016,1.0,palonosetron,1,Palonosetron Hcl,86
+2010,,pantoprazole sodium,0,Pantoprazole Sodium,100
+2016,1.0,paroxetine,1,Paroxetine Hcl,83
+2016,1.0,pentazocine,1,Benzocaine,76
+2016,1.0,pentobarbital,1,Phenobarbital,92
+2016,1.0,perphenazine,1,Perphenazine,100
+2016,1.0,phenelzine,1,Perphenazine,73
+2016,1.0,pimavanserin,1,Pimavanserin Tartrate,73
+2011,,pioglitazone,0,Pioglitazone Hcl,86
+2015,,piroxicam,1,Piroxicam,100
+2013,,ponatinib,0,Ponatinib Hcl,82
+2012,,pramipexole,0,Pramipexole Di-Hcl,76
+2015,,pramlintide acetate,1,Pramlintide Acetate,100
+2014,,prasugrel,0,Prasugrel Hcl,82
+2019,,pregabalin,1,Pregabalin,100
+2010,,propoxyphene,0,Naproxen,60
+2010,,propylthiouracil,0,Propylthiouracil,100
+2016,1.0,protriptyline,1,Protriptyline Hcl,87
+2016,1.0,quazepam,1,Diazepam,75
+2016,1.0,quetiapine,1,Betaine,71
+2010,,quinine sulfate,0,Quinine Sulfate,100
+2010,,rabeprazole sodium,0,Rabeprazole Sodium,100
+2016,1.0,ramelteon,1,Ramelteon,100
+2013,,regadenoson,0,Prednisone,67
+2015,,regular insulin human,1,"Insulin Regular, Human",100
+2016,1.0,remifentanil,1,Remifentanil Hcl,86
+2019,,ribociclib,1,Palbociclib,76
+2019,,ribociclib/letrozole,1,Ribociclib Succinate/Letrozole,80
+2011,,risedronate,0,Risedronate Sodium,76
+2011,,risedronate delayed release,0,Prasterone (Dhea),57
+2016,1.0,risperidone,1,Risperidone,100
+2013,,rituximab,0,Rituximab,100
+2016,1.0,rizatriptan,1,Sumatriptan,73
+2010,,rosiglitazone,0,Rosiglitazone Maleate,76
+2010,,salmeterol,0,Salmeterol Xinafoate,67
+2010,,saquinavir,0,Saquinavir Mesylate,69
+2013,,saxagliptin,0,Saxagliptin Hcl,85
+2015,,saxagliptin/metformin,1,Saxagliptin Hcl/Metformin Hcl,84
+2016,1.0,secobarbital sodium,1,Secobarbital Sodium,100
+2016,1.0,selegiline,1,Selegiline,100
+2016,1.0,sertraline,1,Sertraline Hcl,83
+2010,,sibutramine,0,Glutamine,70
+2016,,simeprevir,1,Simeprevir Sodium,74
+2010,,simvastatin,0,Simvastatin,100
+2013,,sitagliptin,0,Linagliptin,82
+2015,,sitagliptin/metformin,1,Sitagliptin Phos/Metformin Hcl,82
+2012,,sodium oxybate,0,Sodium Oxybate,100
+2015,,sodium polystyrene sulfonate,1,Sodium Polystyrene Sulfonate,100
+2015,,sofosbuvir,1,Sofosbuvir,100
+2016,,sofosbuvir/velpatasvir,1,Sofosbuvir/Velpatasvir,100
+2019,,sofosbuvir/velpatasvir/voxilaprevir,1,Sofosbuvir/Velpatas/Voxilaprev,92
+2010,,somatropin,0,Somatropin,100
+2016,1.0,sufentanil,1,Fentanyl,78
+2015,,sulindac,1,Sulindac,100
+2016,,sumatriptan,1,Sumatriptan,100
+2016,1.0,suvorexant,1,Suvorexant,100
+2016,1.0,tapentadol,1,Tapentadol Hcl,83
+2014,,taxotere one vial formulation,0,Prenatal No.75/Iron/Folate No1,54
+2014,,taxotere two vial formulation,0,"Water For Irrigation,sterile",56
+2012,,telaprevir,0,Telaprevir,100
+2016,1.0,temazepam,1,Temazepam,100
+2016,1.0,thioridazine,1,Thioridazine Hcl,86
+2016,1.0,thiothixene,1,Thiothixene,100
+2010,,tigecycline,0,Tigecycline,100
+2011,,tiludronate,0,Difluprednate,67
+2016,1.0,tizanidine,1,Tizanidine Hcl,83
+2019,,tofacitinib,1,Axitinib,74
+2015,,tolmetin,1,Tolmetin Sodium,70
+2013,,tolvaptan,0,Tolvaptan,100
+2015,,tramadol,1,Tramadol Hcl,80
+2016,1.0,tranylcypromine,1,Tranylcypromine Sulfate,79
+2016,1.0,trazodone,1,Trazodone Hcl,82
+2016,1.0,triazolam,1,Triazolam,100
+2016,1.0,trifluoperazine,1,Trifluoperazine Hcl,88
+2016,1.0,trimipramine,1,Imipramine Hcl,77
+2010,,triptorelin pamoate,0,Triptorelin Pamoate,100
+2016,1.0,tryptophan,1,Sumatriptan,57
+2011,,varenicline,0,Varenicline Tartrate,71
+2016,1.0,venlafaxine,1,Desvenlafaxine,88
+2016,1.0,vilazodone,1,Vilazodone Hcl,83
+2016,1.0,zaleplon,1,Zaleplon,100
+2014,,ziprasidone,0,Ziprasidone Hcl,85
+2011,,zoledronic acid,0,Zoledronic Acid,100
+2016,1.0,zolmitriptan,1,Zolmitriptan,100
+2013,,zolpidem,0,Zolpidem Tartrate,64
